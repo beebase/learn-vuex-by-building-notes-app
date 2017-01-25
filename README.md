@@ -1,6 +1,6 @@
-# Quasar App
+# Quasar app + vues
 
-> A Quasar project
+> Sample todo list demonstrating vuex
 
 ## Build Setup
 
@@ -10,10 +10,4 @@ $ npm install
 
 # serve with hot reload at localhost:8080
 $ quasar dev
-
-# build for production with minification
-$ quasar build
-
-# lint code
-$ quasar lint
 ```
