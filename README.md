@@ -1,4 +1,4 @@
-# Quasar app + vues
+# Quasar app + vuex
 
 > Sample todo list demonstrating vuex
 
